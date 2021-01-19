@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ek6vcrGQQXvFZr3H7AoCFFZcP7rCjJhxEwC3lTDmVPxEBKaK3uIppq92VqITPSUyf8EA0HtGgnqKTWW7CkN/ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asgha\\source\\repos\\FinalGeneric\\FinalGeneric\\FinalGeneric.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asgha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\asgha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
