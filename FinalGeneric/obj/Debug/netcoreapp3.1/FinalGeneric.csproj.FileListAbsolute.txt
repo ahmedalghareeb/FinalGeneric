@@ -1,0 +1,13 @@
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\bin\Debug\netcoreapp3.1\FinalGeneric.exe
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\bin\Debug\netcoreapp3.1\FinalGeneric.deps.json
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\bin\Debug\netcoreapp3.1\FinalGeneric.runtimeconfig.json
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\bin\Debug\netcoreapp3.1\FinalGeneric.runtimeconfig.dev.json
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\bin\Debug\netcoreapp3.1\FinalGeneric.dll
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\bin\Debug\netcoreapp3.1\FinalGeneric.pdb
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\obj\Debug\netcoreapp3.1\FinalGeneric.csprojAssemblyReference.cache
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\obj\Debug\netcoreapp3.1\FinalGeneric.AssemblyInfoInputs.cache
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\obj\Debug\netcoreapp3.1\FinalGeneric.AssemblyInfo.cs
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\obj\Debug\netcoreapp3.1\FinalGeneric.csproj.CoreCompileInputs.cache
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\obj\Debug\netcoreapp3.1\FinalGeneric.dll
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\obj\Debug\netcoreapp3.1\FinalGeneric.pdb
+C:\Users\asgha\source\repos\FinalGeneric\FinalGeneric\obj\Debug\netcoreapp3.1\FinalGeneric.genruntimeconfig.cache

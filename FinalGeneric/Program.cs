@@ -7,7 +7,20 @@ namespace FinalGeneric
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MyGeneric<int> test = new MyGeneric<int>();
+            test.add(1);
+            test.add(2);
+            test.add(3);
+            test.add(4);
+
+            Console.WriteLine($"item in index 3 is: {test.getItemByIndex(3)}");
+            
+            foreach(int i in test.Mysort())
+            {
+                Console.WriteLine($"{i}");
+            }
+           
+
         }
     }
 
@@ -19,7 +32,7 @@ namespace FinalGeneric
 //5)    Has a method that returns a sorted collection with the items in descending order
     class MyGeneric<T> where T : struct 
     {
-        private List<T> collection;
+        private List<T> collection = new List<T>();
         
         public void add(T t)
         {
@@ -28,19 +41,12 @@ namespace FinalGeneric
 
         public T getItemByIndex(int index)
         {
-            foreach(T t in collection)
-            {
-                if(collection.FindIndex(t) == index)
-                {
-                    return t;
-                }
-            }
-            
+          return  collection[index];   
         }
 
         public ICollection<T> Mysort()
         {
-            collection.Sort();
+            collection.Reverse();
             return collection;
         }
 
