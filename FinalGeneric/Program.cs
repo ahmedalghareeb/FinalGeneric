@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace FinalGeneric
 {
@@ -9,9 +10,9 @@ namespace FinalGeneric
         {
             MyGeneric<int> test = new MyGeneric<int>();
             test.add(1);
-            test.add(2);
-            test.add(3);
             test.add(4);
+            test.add(6);
+            test.add(3);
 
             Console.WriteLine($"item in index 3 is: {test.getItemByIndex(3)}");
             
@@ -44,10 +45,10 @@ namespace FinalGeneric
           return  collection[index];   
         }
 
-        public ICollection<T> Mysort()
+        public List<T> Mysort()
         {
             collection.Reverse();
-            return collection;
+            return collection.OrderByDescending(x => x).ToList();
         }
 
     }
