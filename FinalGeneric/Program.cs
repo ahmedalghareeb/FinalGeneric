@@ -47,7 +47,6 @@ namespace FinalGeneric
 
         public List<T> Mysort()
         {
-            collection.Reverse();
             return collection.OrderByDescending(x => x).ToList();
         }
 
